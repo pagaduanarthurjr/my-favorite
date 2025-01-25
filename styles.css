@@ -8,7 +8,7 @@ body {
 
 
 .header {
-    background-color: #4CAF50;
+    background-color: #032c05;
     color: white;
     text-align: center;
     padding: 1rem 0;
@@ -25,10 +25,10 @@ nav {
 
 nav a {
     text-decoration: none;
-    color: #4CAF50;
+    color: #032c05;
     font-size: 1.2rem;
     font-weight: bold;
-    border: 2px solid #4CAF50;
+    border: 2px solid #032c05;
     padding: 0.5rem 1rem;
     border-radius: 5px;
     margin: 0 0.5rem;
@@ -36,7 +36,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #4CAF50;
+    background-color: #032c05;
     color: white;
     transform: scale(1.1);
 }
@@ -75,9 +75,9 @@ img {
     display: block;
     max-width: 100%;
     height: auto;
-    margin: 1rem auto; /* Centers the image */
-    border-radius: 10px; /* Adds rounded corners for better visuals */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for emphasis */
+    margin: 1rem auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 
